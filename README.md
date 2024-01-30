@@ -1,2 +1,2 @@
-# Coffee-Shop-C-
-This project is developed in C++ using the concepts of Inheritance and Encapsulation.
+# -Coffee Shop in C++ using OOP-
+This C++ project implements a coffee shop management system using Object-Oriented Programming (OOP) concepts. It features distinct functionalities for administrators and customers, leveraging encapsulation, inheritance, and polymorphism to create a modular and efficient design. Administrators can manage the menu, edit item details, and track payments, while customers can place orders, view their orders, and check out. The system's OOP architecture enhances code organization, reusability, and maintainability, ensuring scalability for future enhancements and modifications.
